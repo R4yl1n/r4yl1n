@@ -32,13 +32,6 @@ If it involves scripting, playbooks, pipelines, or system-level development, I�
 
 ---
 
-### 🙋‍♂️ I’m looking for help with
-
-Deep discussions around C++ (Boost.Asio), ZFS optimization, switch firmware behavior, and network topology challenges.  
-Ideally with people who enjoy technical deep dives as much as I do.
-
----
-
 ### 🌱 I’m currently learning
 
 Modern C++ with a focus on system and network programming.  
