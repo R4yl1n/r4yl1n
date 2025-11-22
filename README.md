@@ -14,9 +14,49 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 💫 About Me:
-⸻<br><br>🛠️ I’m currently working on<br><br>A lean, modular monitoring stack that watches servers, and networks with the paranoia of a Swiss border officer.<br>C++ ping tooling, DevOps automation, homelab tuning the whole toolbox.<br><br>⸻<br><br>🤝 I’m looking to collaborate on<br><br>Projects that blend network engineering, automation, and solid architecture.<br>If it needs scripts, playbooks, pipelines, or low-level systems work: I’m in.<br><br>⸻<br><br>🙋‍♂️ I’m looking for help with<br><br>Nothing dramatic — just someone who doesn’t cringe when talking about C++ Boost.Asio, ZFS tuning, weird switch firmware, or questionable VLAN designs.<br>And maybe someone who enjoys falling down technical rabbit holes just as much.<br><br>⸻<br><br>🌱 I’m currently learning<br><br>C++ properly — not the YouTube “Hello World” stuff, but real system-level and network-related components.<br>Plus data engineering, Ansible best practices, and business informatics so the tech I build actually makes sense in the real world.<br><br>⸻<br><br>💬 Ask me about<br><br>Homelabs, networking, VPNs, firewalls, Docker deployments, monitoring setups, Proxmox, ZFS, Ansible, C++, SQL, ETL pipelines.<br>Or why things break even though “nobody changed anything.”<br><br>⸻<br><br>⚡ Fun fact<br><br>I build infrastructure faster than people can say “Why is this broken now?” — and still end up redesigning my own setup every week.<br><br>⸻
+# 💫 About Me
 
+---
+
+### 🛠️ I’m currently working on
+
+A modular monitoring stack focused on reliable server and network observability.  
+My current work includes C++ network tooling, DevOps automation, and continuous improvement of my own infrastructure environment.
+
+---
+
+### 🤝 I’m looking to collaborate on
+
+Projects that combine network engineering, automation, and clean architectural design.  
+If it involves scripting, playbooks, pipelines, or system-level development, I’m interested.
+
+---
+
+### 🙋‍♂️ I’m looking for help with
+
+Deep discussions around C++ (Boost.Asio), ZFS optimization, switch firmware behavior, and network topology challenges.  
+Ideally with people who enjoy technical deep dives as much as I do.
+
+---
+
+### 🌱 I’m currently learning
+
+Modern C++ with a focus on system and network programming.  
+Additionally improving my skills in data engineering, Ansible workflows, and business informatics to build solutions that are both technically solid and practically relevant.
+
+---
+
+### 💬 Ask me about
+
+Homelabs, networking, VPNs, firewalls, Docker deployments, monitoring stacks, Proxmox, ZFS, Ansible, C++, SQL, and ETL pipelines — or general troubleshooting logic.
+
+---
+
+### ⚡ Fun fact
+
+I frequently redesign and optimize my own infrastructure — not because it’s broken, but because I want to understand how to make it even better.
+
+---
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raylin@rayit.tech) 
