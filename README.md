@@ -25,13 +25,6 @@ My current work includes C++ network tooling, DevOps automation, and continuous 
 
 ---
 
-### 🤝 I’m looking to collaborate on
-
-Projects that combine network engineering, automation, and clean architectural design.  
-If it involves scripting, playbooks, pipelines, or system-level development, I’m interested.
-
----
-
 ### 🌱 I’m currently learning
 
 Modern C++ with a focus on system and network programming.  
