@@ -32,7 +32,7 @@ I frequently redesign and optimize my own infrastructure — not because it’s 
 
 ## 🌐 Socials:
 [![Website](https://img.shields.io/badge/Website-%23000000.svg?style=flat&logo=safari&logoColor=white)](https://rayit.tech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raylin) <!-- Update your LinkedIn URL -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yannick-raylin-gloor-421710223) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raylin@rayit.tech) 
 
 # 💻 Tech Stack:
