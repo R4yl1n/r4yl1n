@@ -1,26 +1,12 @@
-## Hi there 👋
+## Hey, I'm Ray 👋 | Network & Systems Engineer
 
-<!--
-**R4yl1n/r4yl1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # 💫 About Me
 
 ---
 
 ### 🛠️ I’m currently working on
 
-A modular monitoring stack focused on reliable server and network observability.  
+[A modular monitoring stack](#) focused on reliable server and network observability. <!-- Link your repo here -->  
 My current work includes C++ network tooling, DevOps automation, and continuous improvement of my own infrastructure environment.
 
 ---
@@ -45,6 +31,8 @@ I frequently redesign and optimize my own infrastructure — not because it’s 
 ---
 
 ## 🌐 Socials:
+[![Website](https://img.shields.io/badge/Website-%23000000.svg?style=flat&logo=safari&logoColor=white)](https://rayit.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raylin) <!-- Update your LinkedIn URL -->
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raylin@rayit.tech) 
 
 # 💻 Tech Stack:
